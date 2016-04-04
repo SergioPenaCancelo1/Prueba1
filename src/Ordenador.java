@@ -53,5 +53,6 @@ public class Ordenador {
    
     void asignarPantalla(String pantalla){
         System.out.println(pantalla);
+        System.out.println("viva yo");
         
     }   }
